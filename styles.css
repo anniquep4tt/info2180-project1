@@ -159,3 +159,36 @@ nav a:hover {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.stories { padding: 40px0;
+}
+
+.stories h2 {
+    color: #5A67D8;
+    font-size: 22px;
+}
+
+.stories article {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+.stories article img {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.stories h3 { font-size: 18px;
+    margin: 0 0 10px;
+}
+
+.stories p {
+    margin: 0 0 10px;
+    font-size: 16px;
+}
+
+.stories a {
+    color: #5A67D8; }
