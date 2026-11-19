@@ -162,6 +162,8 @@ nav a:hover {
 
 .stories { 
     padding: 40px 0;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 .stories h2 {
